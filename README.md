@@ -1,9 +1,9 @@
-***Knowledge Graph-Based Comparative Privacy Policy Analysis
+Knowledge Graph-Based Comparative Privacy Policy Analysis
+Project Overview
 
-***Project Overview
 This research project develops a knowledge graph analytics framework for comparative privacy policy analysis across financial, healthcare, and IT sectors.
 
-***Tentative Research Questions:
+Tentative Research Questions
 
 How does privacy policy compliance vary across financial, healthcare, and IT sectors?
 
@@ -13,30 +13,30 @@ Can structural analysis reveal meaningful industry clusters and compliance arche
 
 Can predictive models identify policies that deviate from regulatory norms?
 
-***Repository Structure
+Repository Structure
+├── main.tex                               # Main LaTeX document
+├── references.bib                         # Bibliography file
+├── DS_MLCourseProjectPaper__Feb_21__2026_.pdf  # Compiled PDF output
+├── Notes.txt                              # Link to the Literature Review Excel sheet
+└── README.md                              # This file
 
-├── main.tex                                                      # Main LaTeX document
+Note: The literature review tracking spreadsheet (Excel) is linked in the Notes section of this repository.
 
-├── references.bib                                                # Bibliography file
+Team Members
 
-├── DS_MLCourseProjectPaper__Feb_21__2026_.pdf                    # Compiled PDF output
-
-├── Notes.txt                                                     # Link to the Literature Review Excel sheet
-
-└── README.md                                                     # This file
-
-*Note: The literature review tracking spreadsheet (Excel) is linked in the Notes section of this repository.
-
-***Team Members
 Mehakpreet Kaur
 
 Julie Allen
 
-Last Updated: 26 February 2026
+Last Updated
 
-**Compiling Locally
-Use Overleaf
+21 February 2026
+
+Compiling Locally
+Option 1: Use Overleaf (Recommended)
+
+Go to Overleaf
+
 Import this repository from GitHub
 
-Overleaf will automatically compile
-
+Overleaf will automatically compile the document
