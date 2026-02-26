@@ -29,7 +29,7 @@ Mehakpreet Kaur
 
 Julie Allen
 
-Last Updated
+### Last Updated
 
 26 February 2026
 
@@ -37,7 +37,7 @@ Last Updated
 
 Option 1: Use Overleaf (Recommended)
 
-#### Go to Overleaf
+### Go to Overleaf
 
 Import this repository from GitHub
 
