@@ -1,9 +1,9 @@
 ### Knowledge Graph-Based Comparative Privacy Policy Analysis
-##Project Overview
+## Project Overview
 
 This research project develops a knowledge graph analytics framework for comparative privacy policy analysis across financial, healthcare, and IT sectors.
 
-##Tentative Research Questions
+## Tentative Research Questions
 
 How does privacy policy compliance vary across financial, healthcare, and IT sectors?
 
@@ -13,7 +13,7 @@ Can structural analysis reveal meaningful industry clusters and compliance arche
 
 Can predictive models identify policies that deviate from regulatory norms?
 
-##Repository Structure
+## Repository Structure
 ├── main.tex                               # Main LaTeX document
 ├── references.bib                         # Bibliography file
 ├── DS_MLCourseProjectPaper__Feb_21__2026_.pdf  # Compiled PDF output
@@ -22,7 +22,7 @@ Can predictive models identify policies that deviate from regulatory norms?
 
 Note: The literature review tracking spreadsheet (Excel) is linked in the Notes section of this repository.
 
-##Team Members
+## Team Members
 
 Mehakpreet Kaur
 
@@ -32,7 +32,7 @@ Last Updated
 
 21 February 2026
 
-##Compiling Locally
+## Compiling Locally
 Option 1: Use Overleaf (Recommended)
 
 Go to Overleaf
