@@ -14,13 +14,13 @@ Can structural analysis reveal meaningful industry clusters and compliance arche
 Can predictive models identify policies that deviate from regulatory norms?
 
 ## Repository Structure
-
+```
 ├── main.tex                               # Main LaTeX document
 ├── references.bib                         # Bibliography file
 ├── DS_MLCourseProjectPaper__Feb_21__2026_.pdf  # Compiled PDF output
 ├── Notes.txt                              # Link to the Literature Review Excel sheet
 └── README.md                              # This file
-
+```
 Note: The literature review tracking spreadsheet (Excel) is linked in the Notes section of this repository.
 
 ## Team Members
