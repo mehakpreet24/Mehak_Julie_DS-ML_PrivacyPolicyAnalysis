@@ -35,9 +35,9 @@ Julie Allen
 
 ## Compiling Locally
 
-Option 1: Use Overleaf (Recommended)
+Use Overleaf (Recommended)
 
-### Go to Overleaf
+ Go to Overleaf
 
 Import this repository from GitHub
 
