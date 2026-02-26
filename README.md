@@ -1,4 +1,4 @@
-### Knowledge Graph-Based Comparative Privacy Policy Analysis
+# Knowledge Graph-Based Comparative Privacy Policy Analysis
 ## Project Overview
 
 This research project develops a knowledge graph analytics framework for comparative privacy policy analysis across financial, healthcare, and IT sectors.
@@ -37,7 +37,7 @@ Last Updated
 
 Option 1: Use Overleaf (Recommended)
 
-Go to Overleaf
+#### Go to Overleaf
 
 Import this repository from GitHub
 
