@@ -17,7 +17,7 @@ Can predictive models identify policies that deviate from regulatory norms?
 ```
 ├── main.tex                                         # Main LaTeX document
 ├── references.bib                                   # Bibliography file
-├── DS_MLCourseProjectPaper__Feb_21__2026_.pdf       # Compiled PDF output
+├── DS_MLCourseProjectPaper__March_10__2026_.pdf     # Compiled PDF output
 ├── Notes.txt                                        # Link to the Literature Review Excel sheet
 └── README.md                                        # This file
 ```
@@ -31,7 +31,7 @@ Julie Allen
 
 ### Last Updated
 
-21 February 2026
+March 10 2026
 
 ## Compiling Locally
 
