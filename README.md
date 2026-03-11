@@ -31,7 +31,7 @@ Julie Allen
 
 ### Last Updated
 
-March 10 2026
+March 10, 2026
 
 ## Compiling Locally
 
