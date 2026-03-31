@@ -61,6 +61,7 @@ Scatter plots analyzing policy complexity relationships
 Identification of outliers and high-complexity companies
 
 ###Repository Structure
+'''
 ├── main.tex                                         # Main LaTeX document
 ├── references.bib                                   # Bibliography file
 ├── DS_MLCourseProjectPaper__March_10__2026_.pdf     # Compiled paper
@@ -70,7 +71,7 @@ Identification of outliers and high-complexity companies
 ├── figures/                                         # Generated visualizations (Figures 1–7)
 ├── Notes.txt                                        # Literature review spreadsheet link
 └── README.md                                        # Project documentation
-
+'''
 ###Team Members
 Mehakpreet Kaur
 Julie Allen
