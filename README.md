@@ -16,8 +16,11 @@ to identify patterns in privacy practices and detect deviations from regulatory 
 
 ## Research Questions
 How does privacy policy complexity and compliance vary across Financial, Healthcare, and IT sectors?
+
 What structural differences in privacy policies impact user data exposure and third-party sharing?
+
 Can graph-based features reveal meaningful industry clusters and compliance archetypes?
+
 Can machine learning models identify policies that deviate from regulatory expectations (e.g., GDPR, HIPAA, CCPA)?
 
 ## Dataset Description
