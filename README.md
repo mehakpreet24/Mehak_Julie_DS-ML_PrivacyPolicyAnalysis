@@ -88,16 +88,27 @@ March 31, 2026
 
 ## Running the Project
 Google Colab (Recommended)
+
 Download and extract UniquePPs.zip
+
 Open the .ipynb notebook
+
 Run cells sequentially to:
+
 Load GraphML files
+
 Generate features
+
 Perform preprocessing
+
 Produce visualizations
 
 ## LaTeX Paper Compilation
+
 Option 1: Overleaf (Recommended)
+
 Go to Overleaf
+
 Import this repository from GitHub
+
 The document will compile automatically
