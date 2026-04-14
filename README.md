@@ -40,7 +40,7 @@ Each graph encodes:
 Nodes: data types, actors (entities), and policy elements
 Edges: relationships (e.g., data collection, sharing, processing)
 
-## Data Processing Pipeline (March 31)
+## Data Processing Pipeline (April 13)
 ### Part A: Data Acquisition & Description
 Dataset constructed from publicly available privacy policies
 Graph-based representation using PoliGrapher
@@ -81,6 +81,10 @@ Identification of outliers and high-complexity companies
 ├── Notes.txt                                                                   # Literature review spreadsheet link
 └── README.md                                                                   # Project documentation
 ```
+
+## Proposed Milestone 3 work
+Compliance analysis: Identifying differences between the actual and legally required privacy policy disclosure
+
 ## Team Members
 Mehakpreet Kaur
 
