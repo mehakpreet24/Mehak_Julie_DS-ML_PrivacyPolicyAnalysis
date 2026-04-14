@@ -1,0 +1,55 @@
+company,sector,n_violations,violations
+Aflac.xml,Financial,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Aflac old.xml,Financial,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Allstate.xml,Financial,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+American Express.xml,Financial,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Bank of America.xml,Financial,3,Vague/unspecified data collection | Involves 5+ third-party actors | No security language found
+Citigroup.xml,Financial,3,Vague/unspecified data collection | No user rights language found | No security language found
+MetLife.xml,Financial,3,Vague/unspecified data collection | No user rights language found | No security language found
+Morgan Stanley.xml,Financial,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Progressive Corporation.xml,Financial,3,Vague/unspecified data collection | Involves 5+ third-party actors | No security language found
+Prudential Financial.xml,Financial,3,Vague/unspecified data collection | No user rights language found | No security language found
+Travelers Companies (The).xml,Financial,3,Vague/unspecified data collection | Involves 5+ third-party actors | No user rights language found
+Goldman Sachs.xml,Financial,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Hartford (The).xml,Financial,2,Vague/unspecified data collection | Involves 5+ third-party actors
+JPMorgan Chase.xml,Financial,2,Collects biometric data | Vague/unspecified data collection
+Mastercard.xml,Financial,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Berkshire Hathaway.xml,Financial,1,No security language found
+Charles Schwab Corporation.xml,Financial,1,Vague/unspecified data collection
+Visa Inc..xml,Financial,1,Vague/unspecified data collection
+Wells Fargo.xml,Financial,1,No user rights language found
+Boston Scientific.xml,Healthcare,5,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors | No user rights language found | No security language found
+McKesson Corporation.xml,Healthcare,4,Vague/unspecified data collection | Involves 5+ third-party actors | No user rights language found | No security language found
+Pfizer.xml,Healthcare,4,Vague/unspecified data collection | Involves 5+ third-party actors | No user rights language found | No security language found
+AbbVie.xml,Healthcare,3,Vague/unspecified data collection | Involves 5+ third-party actors | No security language found
+Abbott Laboratories.xml,Healthcare,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Baxter International.xml,Healthcare,3,Vague/unspecified data collection | No user rights language found | No security language found
+CVS Health.xml,Healthcare,3,Vague/unspecified data collection | Involves 5+ third-party actors | No user rights language found
+Cigna.xml,Healthcare,3,Vague/unspecified data collection | Involves 5+ third-party actors | No user rights language found
+DaVita.xml,Healthcare,3,Vague/unspecified data collection | No user rights language found | No security language found
+Johnson & Johnson.xml,Healthcare,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Molina Healthcare.xml,Healthcare,3,Vague/unspecified data collection | Involves 5+ third-party actors | No user rights language found
+Cardinal Health.xml,Healthcare,2,Vague/unspecified data collection | No security language found
+Centene Corporation.xml,Healthcare,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Elevance Health.xml,Healthcare,2,Vague/unspecified data collection | No security language found
+HCA Healthcare.xml,Healthcare,2,Vague/unspecified data collection | No user rights language found
+Humana.xml,Healthcare,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Lilly (Eli).xml,Healthcare,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Merck & Co..xml,Healthcare,2,No user rights language found | No security language found
+UnitedHealth Group.xml,Healthcare,2,Vague/unspecified data collection | No security language found
+Becton Dickinson.xml,Healthcare,1,Vague/unspecified data collection
+GE HealthCare.xml,Healthcare,1,No user rights language found
+Apple Inc..xml,IT,3,Vague/unspecified data collection | No user rights language found | No security language found
+Intel.xml,IT,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Microsoft.xml,IT,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Salesforce.xml,IT,3,Collects biometric data | Vague/unspecified data collection | Involves 5+ third-party actors
+Accenture.xml,IT,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Adobe Inc..xml,IT,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Cisco.xml,IT,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Dell Technologies.xml,IT,2,Vague/unspecified data collection | No user rights language found
+IBM.xml,IT,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Nvidia.xml,IT,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Qualcomm.xml,IT,2,Vague/unspecified data collection | Involves 5+ third-party actors
+Broadcom.xml,IT,1,Vague/unspecified data collection
+Cognizant.xml,IT,1,Vague/unspecified data collection
+Oracle Corporation.xml,IT,1,Vague/unspecified data collection
