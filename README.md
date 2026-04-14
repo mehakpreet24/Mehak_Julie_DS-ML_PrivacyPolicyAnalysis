@@ -28,6 +28,7 @@ Input: Public privacy policies from Fortune 500 companies
 Format: GraphML (knowledge graphs)
 
 Scope: 184 companies across 3 sectors:
+
 Financial
 
 Healthcare
