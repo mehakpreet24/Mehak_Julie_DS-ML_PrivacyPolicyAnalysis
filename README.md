@@ -15,13 +15,10 @@ Machine learning-ready feature engineering
 to identify patterns in privacy practices and detect deviations from regulatory norms.
 
 ## Research Questions
-How does privacy policy complexity and compliance vary across Financial, Healthcare, and IT sectors?
+RQ1: What are Privacy Policy related connections across IT, Healthcare, and Financial Services with regulatory compliance impact and compliance violations, and how do the sectors compare?
 
-What structural differences in privacy policies impact user data exposure and third-party sharing?
+RQ2: What are Privacy Policy related connections within the sectors of Information Technology, Healthcare, and Financial Services?
 
-Can graph-based features reveal meaningful industry clusters and compliance archetypes?
-
-Can machine learning models identify policies that deviate from regulatory expectations (e.g., GDPR, HIPAA, CCPA)?
 
 ## Dataset Description
 Source: Constructed using the PoliGrapher pipeline (Cui et al., 2023)
@@ -84,7 +81,7 @@ Mehakpreet Kaur
 Julie Allen
 
 ## Last Updated
-March 31, 2026
+April 13, 2026
 
 ## Running the Project
 Google Colab (Recommended)
