@@ -29,7 +29,9 @@ Format: GraphML (knowledge graphs)
 
 Scope: 184 companies across 3 sectors:
 Financial
+
 Healthcare
+
 IT
 
 Each graph encodes:
