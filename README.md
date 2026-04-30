@@ -81,14 +81,15 @@ Identification of outliers and high-complexity companies
 ├── April13figures/                                                             # Answer to RQ1 and RQ2
 ├── Mehak_Julie _Milestone II Presentation - DS&ML.pptx                         # Slides
 ├── (April29)figures/                                                           # Generated visualizations Final Milestone
-├── TheFinal Presentation - DS & ML                                             # Slides
+├── TheFinal Presentation-DS&ML.pptx                                            # Slides
 ├── (April_29)Mehak_Julie_Privacy_Policy_KG.ipynb                               # .ipynb notebook (Final)
-├──(April_29)Mehak_Julie_Privacy_Policy_KG.pdf                                  # pdf of .ipynb notebook (Final)
+├── (April_29)Mehak_Julie_Privacy_Policy_KG.pdf                                 # pdf of .ipynb notebook (Final)
+├── Spring26 - DS&MLCourseProject-Mehak-Julie (April 29)                        #Compiled paper
 └── README.md                                                                   # Project documentation
 ```
 
 ## Proposed Milestone 3 work
-Compliance analysis: Identifying differences between the actual and legally required privacy policy disclosure
+This project analyzed privacy policies from 184 S&P 500 companies across three sectors — Healthcare, IT, and Financial — using knowledge graph analytics. Each company's privacy policy was represented as a GraphML file containing ACTOR nodes, representing entities that collect data, and DATA nodes, representing the types of data collected, connected by COLLECT and SUBSUM edges. We built a unified knowledge graph combining all 184 companies into one structure, linking companies to sectors, data types to regulatory frameworks, and actors to their collection relationships. Using this graph, we applied graph algorithms including BFS, DFS, shortest path, and all-paths analysis to trace how data flows through the graph and identify structural patterns. We then ran centrality analysis — PageRank, in-degree, and betweenness — to identify which nodes are most structurally influential across the entire corpus. Finally, we matched every collected data type against official GDPR, CCPA, and HIPAA regulatory vocabularies to measure compliance exposure per sector. Our two research questions drove the analysis — RQ1 asked what connections and compliance patterns exist across sectors, and RQ2 asked what data types, third-party actors, and collection patterns are characteristic within each sector. The results revealed a two-tier structure across all three sectors: a universal baseline of digital identifiers collected by virtually every company, and a sector-specific sensitive data tier that diverges sharply by industry. The most significant finding was that HIPAA exposure extends well beyond Healthcare — 77% of IT companies and 81% of Financial companies collect data matching HIPAA's 18 Safe Harbor identifiers, revealing compliance obligations that their sector classification alone would not predict.
 
 ## Team Members
 Mehakpreet Kaur
@@ -96,7 +97,7 @@ Mehakpreet Kaur
 Julie Allen
 
 ## Last Updated
-April 13, 2026
+April 29, 2026
 
 ## Running the Project
 Google Colab (Recommended)
