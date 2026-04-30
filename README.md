@@ -71,12 +71,15 @@ Identification of outliers and high-complexity companies
 ├── main.tex                                                                    # Main LaTeX document
 ├── references.bib                                                              # Bibliography file
 ├── Spring26 - DS_MLCourseProjectPaper-Mehak-Julie.pdf                          # Compiled paper
+├── Spring26 - DS_MLCourseProjectPaper-Mehak-Julie.pdf                          # Compiled paper
 ├── UniquePPs.zip                                                               # .zip Raw GraphML dataset
 ├── all_companies_metrics.csv                                                   # .csv file
 ├── Data Collection, Data Wrangling, and Visualization.ipynb                    # .ipynb notebook (EDA & preprocessing)
 ├── figures/                                                                    # Generated visualizations (Figures 1–7)
+├── (April29)figures/                                                           # Generated visualizations (Figures 1–7)
 ├── April13figures/                                                             # Answer to RQ1 and RQ2
 ├── Mehak_Julie _Milestone II Presentation - DS&ML.pptx                         # Slides
+├── TheFinal Presentation - DS & ML                                             # Slides
 ├── April 13 - DataWranglingDSML.ipynb                                          # Recent ipynb
 ├── Notes.txt                                                                   # Literature review spreadsheet link
 └── README.md                                                                   # Project documentation
