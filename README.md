@@ -83,6 +83,7 @@ Identification of outliers and high-complexity companies
 ├── (April29)figures/                                                           # Generated visualizations Final Milestone
 ├── TheFinal Presentation - DS & ML                                             # Slides
 ├── (April_29)Mehak_Julie_Privacy_Policy_KG.ipynb                               # .ipynb notebook (Final)
+├──(April_29)Mehak_Julie_Privacy_Policy_KG.pdf                                  # pdf of .ipynb notebook (Final)
 └── README.md                                                                   # Project documentation
 ```
 
