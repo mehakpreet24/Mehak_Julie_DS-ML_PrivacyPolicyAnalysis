@@ -1,0 +1,341 @@
+data_point,healthcare,it,financial,regulations
+cookie / pixel tag,29,43,36,GDPR
+person name,33,38,30,GDPR + CCPA + HIPAA
+email address,30,35,33,CCPA + HIPAA
+ip address,26,34,24,GDPR + CCPA + HIPAA
+phone number,24,30,25,CCPA + HIPAA
+postal address,21,24,26,GDPR + CCPA + HIPAA
+personal information,14,33,20,None
+contact information,16,26,18,None
+geolocation,15,21,23,GDPR + CCPA
+information about you,12,17,22,None
+internet activity,16,17,16,CCPA
+aggregate / deidentified / pseudonymized information,11,13,14,None
+ssn,8,2,21,CCPA + HIPAA
+identifier,8,10,11,HIPAA
+password,6,10,12,None
+cookies,9,12,6,GDPR
+date of birth,8,3,16,CCPA + HIPAA
+browsing / search history,6,4,17,None
+device identifier,6,12,9,GDPR + HIPAA
+personal identifier,7,9,10,HIPAA
+credit / debit card number,4,7,15,CCPA
+precise geolocation,10,8,8,CCPA
+sensitive personal information,9,7,9,None
+internet,6,9,9,None
+username,5,8,11,None
+biometric information,6,3,13,GDPR + CCPA + HIPAA
+information about,7,11,3,None
+browser type,6,7,8,None
+commercial information,4,8,8,None
+date,4,7,8,HIPAA
+inference,8,4,5,CCPA
+pixel,9,5,2,None
+passport number,5,1,10,CCPA
+professional information,4,5,7,CCPA
+race / ethnicity,7,2,6,GDPR + CCPA
+financial information,4,2,8,CCPA
+age,7,3,4,CCPA + HIPAA
+demographic information,7,3,4,None
+online identifier,5,3,5,GDPR + CCPA
+audio,2,7,4,None
+information we collect,4,4,5,None
+driver's license number,2,0,11,CCPA + HIPAA
+gender,6,1,6,CCPA
+preference,1,7,5,CCPA
+job title,2,7,3,CCPA
+education information,4,2,6,CCPA
+sensitive personal data,4,4,3,None
+racial origin,4,1,6,GDPR + CCPA
+alias,4,1,5,GDPR + CCPA
+different type,5,4,1,None
+government identifier,4,0,6,None
+advertising id,1,3,6,GDPR
+non-personal information,5,1,4,None
+information provide,2,5,3,None
+payment information,2,7,1,None
+contact,3,5,1,None
+device,3,3,3,None
+company name,1,6,2,None
+coarse geolocation,3,4,2,None
+information regard use of website,5,2,1,None
+image,2,3,3,HIPAA
+version,3,3,2,None
+employment history,1,0,7,CCPA
+account name,5,0,3,CCPA + HIPAA
+title,1,6,1,None
+choice,3,2,3,None
+information you provide to we,2,4,1,None
+information you provide,1,2,4,None
+sexual orientation,3,0,4,GDPR + CCPA
+datum about you,1,4,2,None
+license,1,1,5,None
+request,3,1,3,None
+specific information from you,1,4,2,None
+information be,3,1,3,None
+information from you,1,4,2,None
+device type,2,2,3,None
+purchase history,3,4,0,CCPA
+personal information be,2,2,2,None
+country,1,4,1,None
+medical information,3,0,3,GDPR + CCPA
+tag,4,0,2,None
+file,0,4,2,None
+information about use of website,1,3,2,None
+information for recordkeeping purpose,2,1,3,None
+photograph,3,2,1,CCPA + HIPAA
+religious belief,3,1,2,GDPR + CCPA
+feedback,1,4,1,None
+device information,0,4,2,HIPAA
+relate information,2,3,1,None
+personal characteristic,4,0,2,None
+sensitive personal datum,3,0,2,None
+specific piece,2,0,3,None
+sensitive information,1,2,2,None
+usage information,1,4,0,None
+information we collect about you,0,3,2,None
+health,3,0,2,GDPR + CCPA
+source,0,3,2,None
+language,1,3,1,None
+mac address,1,2,2,HIPAA
+account information,1,2,2,HIPAA
+usage,1,2,2,None
+citizenship,1,0,4,None
+account number,1,0,4,HIPAA
+operating system,2,2,1,None
+personal datum be,1,3,1,None
+time,1,3,1,None
+content,0,4,1,None
+information necessary,3,0,2,None
+technical datum,1,3,1,None
+professional detail,1,3,1,None
+description,4,0,1,None
+language preference,2,3,0,None
+domain name,2,2,1,None
+option,0,4,1,None
+type of information,1,1,3,None
+photo,1,1,3,HIPAA
+interest,1,3,1,None
+screen resolution,0,1,4,None
+metadata,0,4,1,None
+record,2,3,0,None
+personal information we have about you,3,0,1,None
+special category,1,2,1,None
+personal detail,1,2,1,None
+personal information for business purpose,0,1,3,None
+policy number,1,0,3,None
+internet browser type,1,0,3,None
+fingerprint,1,1,2,GDPR + CCPA + HIPAA
+education,1,1,2,None
+credit card,1,1,2,None
+internet protocol,0,2,2,None
+national origin,1,0,3,GDPR + CCPA
+marital status,1,0,3,CCPA
+bank account number,1,0,3,CCPA
+union membership,2,0,2,GDPR + CCPA
+personal information with third party,0,2,2,None
+profile,0,1,3,CCPA
+state identification card,1,0,3,None
+protected classification,1,0,3,None
+tax identification number,1,0,3,None
+specific type,1,3,0,None
+information we have about you,0,2,2,None
+information with company,2,2,0,None
+employment information,0,1,3,CCPA
+transaction information,2,0,2,CCPA
+social security,2,0,2,HIPAA
+beacon,0,2,2,GDPR
+encryption,2,0,2,None
+information for purpose,0,1,3,None
+documentation,1,1,2,None
+information from,2,1,1,None
+log file,1,2,1,None
+category of personal information,0,2,2,None
+access time,1,3,0,None
+user name,1,2,1,None
+personal information with affiliate,2,1,1,None
+sensitive personal,2,0,1,None
+setting,1,2,0,None
+video,0,1,2,None
+session replay,0,1,2,None
+gpc signal,1,2,0,None
+information list,2,1,0,None
+text message,1,0,2,None
+city,0,1,2,HIPAA
+model,1,0,2,None
+certification,0,1,2,None
+information from closed account,0,1,2,None
+number,0,1,2,None
+signature,1,0,2,CCPA
+religion,1,0,2,GDPR + CCPA
+payment,2,0,1,None
+health insurance information,1,0,2,CCPA
+information for security purpose,1,0,2,None
+personal,1,1,1,None
+financial account,1,0,2,CCPA
+personal information personal information,2,1,0,None
+communication preference,1,2,0,None
+first party,2,0,1,None
+customer number,0,1,2,None
+unique pseudonym,1,0,2,None
+registration information,2,1,0,None
+transaction history,1,0,2,None
+contact preference,2,1,0,None
+transaction,0,1,2,None
+health information,1,0,2,GDPR + CCPA
+device data,1,1,1,None
+analytic datum,1,2,0,None
+analytic information,1,2,0,None
+inferences,1,1,1,None
+information available,2,0,1,None
+opt preference signal,2,0,1,None
+information about device,0,2,1,None
+audio information,2,0,1,None
+information you choose,0,2,1,None
+payment detail,0,1,2,None
+call recording,2,0,1,None
+information from device,0,1,2,None
+information about customer,1,1,1,None
+bank account information,0,2,1,None
+voice,2,1,0,None
+local storage,2,1,0,None
+profile information,1,2,0,None
+url,1,2,0,HIPAA
+inference draw from,1,2,0,None
+payment card,1,1,1,None
+record of request,2,0,1,None
+personal information provide,0,1,2,None
+browser language,1,1,1,None
+billing,0,2,1,None
+employment,1,1,1,None
+political opinion,2,1,0,GDPR
+personal information from,0,2,1,None
+notification,0,1,2,None
+information about use of services,1,1,1,None
+personal information we process,0,2,1,None
+financial account information,1,1,1,None
+educational history,1,0,2,None
+tracking,1,0,1,None
+advertising cookies,1,0,1,None
+specific information,1,0,1,None
+relate datum,1,1,0,None
+datum on,1,1,0,None
+datum we collect from you,1,1,0,None
+information about interaction with website,1,1,0,None
+business contact,1,1,0,None
+information require,1,1,0,None
+personal information for purpose describe in section,0,1,1,None
+statistic,1,1,0,None
+information prevent re - registration,0,1,1,None
+demographic,0,1,1,None
+personal information as,0,1,1,None
+session,0,1,1,None
+purchase,1,1,0,None
+order,1,1,0,None
+state identification card number,1,0,1,None
+genetic information,1,0,1,GDPR + CCPA
+medical history,1,0,1,GDPR
+voice print,1,0,1,None
+account,1,0,1,None
+information consistent,1,0,1,None
+information with,0,1,1,None
+information with social medium account provider,1,0,1,None
+statistical information,0,1,1,None
+datum about,0,1,1,None
+personal datum require,0,1,1,None
+web beacons,0,1,1,None
+information respond to,1,1,0,None
+information about service,1,1,0,None
+voicemail,1,0,1,None
+activity,0,1,1,None
+functional cookies,0,1,1,None
+server log,1,1,0,None
+marketing information,1,0,1,None
+basic personal information,0,1,1,None
+datum identify,0,1,1,None
+information collect,1,0,1,None
+document,0,1,1,None
+aggregate,1,1,0,None
+financial datum,0,1,1,None
+chat,1,1,0,None
+business information,1,1,0,None
+mobile information,1,0,1,None
+cctv footage,0,1,1,None
+disability status,1,0,1,None
+behavior,1,1,0,CCPA
+training,1,1,0,None
+information from publicly available source,1,1,0,None
+login information,1,0,1,None
+deidentified information in deidentifie form,0,1,1,None
+list,0,1,1,None
+product information,1,1,0,None
+confirmation,1,1,0,None
+invoice,1,1,0,None
+how personal information,1,0,1,None
+information about account,0,1,1,None
+different kind,1,1,0,None
+statistical datum,0,1,1,None
+survey information,1,1,0,None
+information free,1,1,0,None
+records,1,0,1,None
+sensitive category,1,1,0,None
+information about online preference,1,1,0,None
+preferences,1,0,1,None
+customer,0,1,1,None
+online identifiers,1,0,1,None
+message,1,0,1,None
+personal information for purpose,1,0,1,None
+protected health information,1,0,1,None
+information we collect from,0,1,1,None
+click stream datum,0,1,1,None
+share information,0,1,1,None
+employer name,0,1,1,None
+information you submit,1,0,1,None
+identity,1,0,1,None
+commercial,1,1,0,None
+survey response,0,1,1,None
+browser plug type,1,1,0,None
+time zone setting,1,1,0,None
+personal datum create,1,1,0,None
+deidentifie information use,1,1,0,None
+mouse click,1,1,0,None
+site information,0,1,1,None
+type of,0,1,1,None
+personal datum comply with,1,0,1,None
+information about individual,0,1,1,None
+phone,1,1,0,None
+browser information,1,1,0,None
+insurance information,1,1,0,None
+national id,0,1,1,None
+debit card,0,1,1,None
+information we collect from you to company,1,0,1,None
+information in de - identify form,1,1,0,None
+demographic data,1,1,0,None
+recipient,1,1,0,None
+information you make,0,1,1,None
+hardware model,0,1,1,None
+honorific,1,1,0,None
+credit score,0,1,1,None
+information we collect from you,1,0,1,None
+information about equipment,1,1,0,None
+sex life,1,0,1,GDPR + CCPA
+education history,1,1,0,None
+sensory information,0,1,1,None
+financial account number,1,0,1,CCPA + HIPAA
+voiceprint,0,1,1,GDPR + CCPA + HIPAA
+demographic datum,0,1,1,None
+region,1,1,0,None
+text,1,1,0,None
+camera,0,1,1,None
+information we get from google analytics,0,1,1,None
+available personal datum,1,1,0,None
+operating system version,0,1,1,None
+download error,0,1,1,None
+specific piece of personal data we collect about you,0,1,1,None
+preferred language,1,1,0,None
+professional data,1,1,0,None
+time stamp,1,1,0,None
+insurance policy number,1,0,1,None
+license card number,1,0,1,None
+firewall,1,1,0,None
+information you post,0,1,1,None
