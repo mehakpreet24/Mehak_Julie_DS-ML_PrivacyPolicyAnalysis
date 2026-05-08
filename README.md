@@ -85,6 +85,8 @@ Identification of outliers and high-complexity companies
 ├── (April_29)Mehak_Julie_Privacy_Policy_KG.ipynb                               # .ipynb notebook (Final)
 ├── (April_29)Mehak_Julie_Privacy_Policy_KG.pdf                                 # pdf of .ipynb notebook (Final)
 ├── Spring26 - DS&MLCourseProject-Mehak-Julie (April 29)                        #Compiled paper
+├── (May7)figures/                                                              # Generated visualizations Final Milestone
+├── Spring26 - DS&MLCourseProject-Mehak-Julie (May7)                            #Compiled paper
 └── README.md                                                                   # Project documentation
 ```
 
@@ -97,7 +99,7 @@ Mehakpreet Kaur
 Julie Allen
 
 ## Last Updated
-April 29, 2026
+May 7, 2026
 
 ## Running the Project
 Google Colab (Recommended)
