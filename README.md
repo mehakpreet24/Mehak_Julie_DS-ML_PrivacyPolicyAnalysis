@@ -87,6 +87,7 @@ Identification of outliers and high-complexity companies
 ├── Spring26 - DS&MLCourseProject-Mehak-Julie (April 29)                        #Compiled paper
 ├── (May7)figures/                                                              # Generated visualizations Final Milestone
 ├── Spring26 - DS&MLCourseProject-Mehak-Julie (May7)                            #Compiled paper
+├── (May7)Mehak_Julie_Privacy_Policy_KG.ipynb                                   # .ipynb notebook (Final)
 └── README.md                                                                   # Project documentation
 ```
 
